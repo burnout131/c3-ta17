@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6423136a02f59514150cc1d9"
+  },
+  "Nombre": "Placa Base",
+  "Precio": "125",
+  "Fabricante": {
+    "$oid": "64230da502f59514150cc1d8"
+  }
+},{
+  "_id": {
+    "$oid": "64231c8302f59514150cc1db"
+  },
+  "Nombre": "Procesador i7-13700k",
+  "Precio": "370",
+  "Fabricante": {
+    "$oid": "64231ad102f59514150cc1da"
+  }
+},{
+  "_id": {
+    "$oid": "64231d5d02f59514150cc1dc"
+  },
+  "Nombre": "Pantalla 23 Pulgadas",
+  "Precio": "150",
+  "Fabricante": {
+    "$oid": "64230da502f59514150cc1d8"
+  }
+}]
