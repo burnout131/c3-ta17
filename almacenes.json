@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "642744de1f100f1d2dfda2dc"
+  },
+  "Lugar": "Barcelona",
+  "Capacidad": "500"
+},{
+  "_id": {
+    "$oid": "642745481f100f1d2dfda2df"
+  },
+  "Lugar": "Tarragona",
+  "Capacidad": "200"
+}]

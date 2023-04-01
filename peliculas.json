@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "642747a91f100f1d2dfda2f0"
+  },
+  "Nombre": "Spiderman",
+  "CalificacionEdad": 3
+},{
+  "_id": {
+    "$oid": "642748101f100f1d2dfda2f1"
+  },
+  "Nombre": "John Wick 4",
+  "CalificacionEdad": 16
+}]

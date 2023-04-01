@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "64281329f996ac62a348761f"
+  },
+  "Nombre": "Oscaro"
+},{
+  "_id": {
+    "$oid": "64281346f996ac62a3487620"
+  },
+  "Nombre": "Amazon"
+},{
+  "_id": {
+    "$oid": "64281359f996ac62a3487621"
+  },
+  "Nombre": "Recanvis Aicrag"
+}]

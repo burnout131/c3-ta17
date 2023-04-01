@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6422ce9309994c95ba94327d"
+  },
+  "NomApels": "PedroPica",
+  "DNIJewls": "3458912",
+  "Despacho": "ObjectId(6422ce1709994c95ba94327b)"
+},{
+  "_id": {
+    "$oid": "6422ceae09994c95ba94327e"
+  },
+  "NomApels": "PicaPedra",
+  "DNIJewls": "6540991",
+  "Despacho": "ObjectId(6422ce2409994c95ba94327c)"
+}]

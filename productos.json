@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6428179bf996ac62a3487636"
+  },
+  "Nombre": "Mecedora",
+  "Precio": 30
+},{
+  "_id": {
+    "$oid": "64281893f996ac62a3487637"
+  },
+  "Nombre": "Televisor Sony",
+  "Precio": 1200
+}]

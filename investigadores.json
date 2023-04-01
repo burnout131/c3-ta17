@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6428244af996ac62a3487659"
+  },
+  "NomApels": "Albert Einstein",
+  "Facultad": {
+    "$oid": "6428254af996ac62a348765c"
+  }
+},{
+  "_id": {
+    "$oid": "6428248df996ac62a348765a"
+  },
+  "NomApels": "Sarah Gilbert",
+  "Facultad": {
+    "$oid": "6428256df996ac62a348765d"
+  }
+}]

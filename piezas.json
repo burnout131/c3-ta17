@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6428126df996ac62a348761c"
+  },
+  "Nombre": "Manguito Intercooler"
+},{
+  "_id": {
+    "$oid": "642812dbf996ac62a348761d"
+  },
+  "Nombre": "Junta culata"
+}]

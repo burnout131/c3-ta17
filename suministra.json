@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "642814d8f996ac62a348762e"
+  },
+  "CodigoPieza": {
+    "$oid": "6428126df996ac62a348761c"
+  },
+  "IdProveedor": {
+    "$oid": "64281329f996ac62a348761f"
+  },
+  "Precio": 50
+},{
+  "_id": {
+    "$oid": "6428160af996ac62a3487630"
+  },
+  "CodigoPieza": {
+    "$oid": "642812dbf996ac62a348761d"
+  },
+  "IdProveedor": {
+    "$oid": "64281359f996ac62a3487621"
+  },
+  "Precio": 130
+}]

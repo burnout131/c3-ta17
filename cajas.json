@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "642745801f100f1d2dfda2e1"
+  },
+  "contenido": "Cervezas",
+  "valor": "6",
+  "almacen": {
+    "$oid": "642744de1f100f1d2dfda2dc"
+  }
+},{
+  "_id": {
+    "$oid": "6427464c1f100f1d2dfda2e4"
+  },
+  "contenido": "Disfraces",
+  "valor": "20",
+  "almacen": {
+    "$oid": "642745481f100f1d2dfda2df"
+  }
+}]

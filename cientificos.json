@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "64281e17f996ac62a3487647"
+  },
+  "NomApels": "Marie Curie"
+},{
+  "_id": {
+    "$oid": "64281e3ef996ac62a3487648"
+  },
+  "NomApels": "Alexander Fleming"
+}]
